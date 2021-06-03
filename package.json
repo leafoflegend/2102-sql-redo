@@ -1,0 +1,18 @@
+{
+  "name": "2102-sql-redo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node-dev --respawn src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-dev": "^7.0.0"
+  },
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
